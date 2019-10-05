@@ -1,0 +1,2 @@
+# javascriptpractise.github.io
+practisejavascript
